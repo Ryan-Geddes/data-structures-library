@@ -1,4 +1,4 @@
-# Linked Lists
+# Binary Trees
 
 ## How do they work?
 
@@ -6,7 +6,8 @@
 
 ## Standard Methods:
 
-### Append
+### Add (Recursive)
+
 This method does____. 
 
 **Expected inputs:**
@@ -20,7 +21,8 @@ Step 1 goes here
 Step 2 blah blah blah
 ```
 
-### Includes
+### Insert 
+
 This method does____. 
 
 **Expected inputs:**
@@ -34,7 +36,8 @@ Step 1 goes here
 Step 2 blah blah blah
 ```
 
-### Insert Before
+### Contains (recursive)
+
 This method does____. 
 
 **Expected inputs:**
@@ -48,7 +51,8 @@ Step 1 goes here
 Step 2 blah blah blah
 ```
 
-### Insert After
+### Add (iterative)
+
 This method does____. 
 
 **Expected inputs:**
@@ -61,6 +65,23 @@ This method does____.
 Step 1 goes here
 Step 2 blah blah blah
 ```
+
+### Contains (iterative)
+
+This method does____. 
+
+**Expected inputs:**
+
+**Expected outputs:**
+
+#### **Method Algorithm:**
+
+``` 
+Step 1 goes here
+Step 2 blah blah blah
+```
+
+
 
 ## What are some advantages over other structures?
 
