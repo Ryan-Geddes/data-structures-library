@@ -7,4 +7,5 @@
 - [queues](./queues/queues.md)
 - [trees](./trees/trees.md)
 - [binary search trees](./trees/binarysearchtree.md)
-- [hashtables](.hashtable/hashtable.md)
+- [hashtables](./hashtable/hashtable.md)
+- [sorting algorithims](./sortingalgos/sortingalgos.md)
